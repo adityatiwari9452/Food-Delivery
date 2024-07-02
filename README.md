@@ -6,8 +6,8 @@
    **Training project (Batch-1)**
 
 - **Ravi Verma**
-  
 - **Aditya Tiwari**
+- Roll_ No. 52
 
  ## Technologies Used 
  
@@ -76,4 +76,4 @@ npm start server
 
 This is my first project using the MERN stack, and while it's not fully functional yet and still has more work to be done, I assure you will appreciate my dedication and effort! 😊
 
-Let's connect on [GitHub]() to follow my journey. 🚀
+Let's connect on [GitHub](https://github.com/adityatiwari9452/Food-Delivery.git) to follow my journey. 🚀
