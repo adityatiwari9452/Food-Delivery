@@ -34,7 +34,7 @@
 
 ## Getting Started
 
-- First of all, you will need to create a database with Atlas MongoDB.
+- First of all, you will need to create a database with  MongoDB Atlas.
 
 
 ## Installation
